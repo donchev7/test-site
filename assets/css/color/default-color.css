@@ -1,0 +1,312 @@
+.section-title span {
+  color: #04c37f;
+}
+
+.section-title .bar {
+  background-color: #04c37f;
+}
+
+.default-btn {
+  background-color: #04c37f;
+}
+
+.default-btn:hover {
+  background-color: #ffffff;
+}
+
+.default-btn.white-color-btn:hover {
+  background-color: #04c37f;
+}
+
+.preloader::before, .preloader::after {
+  background: #04c37f;
+}
+
+.navbar-light .navbar-nav .nav-item .nav-link:hover, .navbar-light .navbar-nav .nav-item .nav-link.active {
+  color: #04c37f;
+}
+
+.banner-content span {
+  color: #04c37f;
+}
+
+.banner-content .social ul li a:hover {
+  color: #04c37f;
+}
+
+.single-featured-services-box .icon {
+  color: #04c37f;
+}
+
+.single-featured-services-box .bar {
+  background: #04c37f;
+}
+
+.single-featured-services-box:hover .icon, .single-featured-services-box:focus .icon {
+  color: #04c37f;
+}
+
+.overview-box .about-content i {
+  color: #04c37f;
+}
+
+.overview-box .skills-list .skill-item .skill-bar .bar-inner .bar {
+  background: #04c37f;
+}
+
+.single-services-box .details-btn:hover {
+  color: #04c37f;
+}
+
+.single-services-box:hover h3 {
+  color: #04c37f;
+}
+
+.single-services-box:hover h3 a {
+  color: #04c37f;
+}
+
+.single-services-box:hover .icon {
+  background-color: #04c37f;
+  border-color: #04c37f;
+}
+
+.single-projects-box .projects-content span {
+  color: #04c37f;
+}
+
+.single-projects-box .projects-content::before {
+  background-color: #04c37f;
+}
+
+.projects-slides.owl-theme .owl-nav [class*=owl-]:hover {
+  background-color: #04c37f;
+}
+
+.projects-details-desc .project-details-info .single-info-box span a:hover {
+  color: #04c37f;
+}
+
+.projects-details-desc .project-details-info .single-info-box .social li a:hover {
+  color: #04c37f;
+}
+
+.projects-image-slides.owl-theme .owl-nav [class*=owl-]:hover {
+  background-color: #04c37f;
+}
+
+.single-testimonials-item .client-info span {
+  color: #04c37f;
+}
+
+.testimonials-slides.owl-theme .owl-nav [class*=owl-]:hover {
+  color: #04c37f;
+}
+
+.single-team-box .team-member-image::before {
+  background-color: #04c37f;
+}
+
+.single-team-box .team-member-content span {
+  color: #04c37f;
+}
+
+.single-team-box .team-member-content .social li a:hover {
+  background-color: #04c37f;
+}
+
+.team-slides.owl-theme .owl-nav [class*=owl-]:hover {
+  background-color: #04c37f;
+}
+
+.subscribe-content .newsletter-content button {
+  background-color: #04c37f;
+}
+
+.single-blog-post .post-content span.date {
+  color: #04c37f;
+}
+
+.single-blog-post .post-content .read-more-btn {
+  color: #04c37f;
+}
+
+.single-blog-post .post-content::before {
+  background-color: #04c37f;
+}
+
+.blog-details .article-content .entry-meta ul li a:hover {
+  color: #04c37f;
+}
+
+.blog-details .article-content .entry-meta ul li i {
+  color: #04c37f;
+}
+
+.blog-details .article-content .article-features-list li::before {
+  background: #04c37f;
+}
+
+.blog-details .article-footer .article-tags a:hover {
+  color: #04c37f;
+}
+
+.blog-details .article-footer .article-share .social li a:hover {
+  background-color: #04c37f;
+}
+
+.comments-area .comment-body .reply a:hover {
+  background-color: #04c37f;
+  border-color: #04c37f;
+}
+
+.comments-area .comment-metadata a:hover {
+  color: #04c37f;
+}
+
+.comments-area .comment-respond input[type="date"]:focus, .comments-area .comment-respond input[type="time"]:focus, .comments-area .comment-respond input[type="datetime-local"]:focus, .comments-area .comment-respond input[type="week"]:focus, .comments-area .comment-respond input[type="month"]:focus, .comments-area .comment-respond input[type="text"]:focus, .comments-area .comment-respond input[type="email"]:focus, .comments-area .comment-respond input[type="url"]:focus, .comments-area .comment-respond input[type="password"]:focus, .comments-area .comment-respond input[type="search"]:focus, .comments-area .comment-respond input[type="tel"]:focus, .comments-area .comment-respond input[type="number"]:focus, .comments-area .comment-respond textarea:focus {
+  border-color: #04c37f;
+}
+
+.comments-area .comment-respond .form-submit input {
+  background-color: #04c37f;
+}
+
+.comments-area .comment-respond .form-submit input:hover, .comments-area .comment-respond .form-submit input:focus {
+  color: #04c37f;
+}
+
+.contact-form button {
+  background-color: #04c37f;
+}
+
+.widget-area .widget .widget-title::before {
+  background-color: #04c37f;
+}
+
+.widget-area .widget_search form .search-field:focus {
+  border-color: #04c37f;
+}
+
+.widget-area .widget_search form button:hover {
+  background-color: #04c37f;
+}
+
+.widget-area .widget_axton_posts_thumb .item .info .title a:hover {
+  color: #04c37f;
+}
+
+.widget-area .widget_recent_entries ul li::before {
+  background: #04c37f;
+}
+
+.widget-area .widget_recent_entries ul li a:hover {
+  color: #04c37f;
+}
+
+.widget-area .widget_recent_comments ul li::before {
+  background: #04c37f;
+}
+
+.widget-area .widget_recent_comments ul li a:hover {
+  color: #04c37f;
+}
+
+.widget-area .widget_archive ul li::before {
+  background: #04c37f;
+}
+
+.widget-area .widget_archive ul li a:hover {
+  color: #04c37f;
+}
+
+.widget-area .widget_categories ul li::before {
+  background: #04c37f;
+}
+
+.widget-area .widget_categories ul li a:hover {
+  color: #04c37f;
+}
+
+.widget-area .widget_meta ul li::before {
+  background: #04c37f;
+}
+
+.widget-area .widget_meta ul li a:hover {
+  color: #04c37f;
+}
+
+.widget-area .tagcloud a:hover, .widget-area .tagcloud a:focus {
+  border-color: #04c37f;
+  background-color: #04c37f;
+}
+
+.footer-content .footer-contact-info li a:hover {
+  color: #04c37f;
+}
+
+.footer-content .social li a:hover {
+  color: #04c37f;
+}
+
+.copyright-area ul li a:hover {
+  color: #04c37f;
+}
+
+.separate.bg-light .br-line {
+  background: #04c37f;
+}
+
+.navbar-light.bg-light .navbar-nav .nav-item .nav-link:hover, .navbar-light.bg-light .navbar-nav .nav-item .nav-link.active {
+  color: #04c37f;
+}
+
+.main-banner.bg-light .banner-content .social ul li a:hover {
+  color: #04c37f;
+}
+
+.projects-details.bg-light .project-details-info .single-info-box span a:hover {
+  color: #04c37f;
+}
+
+.projects-details.bg-light .project-details-info .single-info-box .social li a:hover {
+  color: #04c37f;
+}
+
+.blog-details.bg-light .article-footer .article-tags a:hover {
+  color: #04c37f;
+}
+
+.overview-box.light .about-content .btn-box .default-btn {
+  border: 1px solid #04c37f;
+}
+
+.single-featured-services-box.light .bar::before, .single-featured-services-box.light .bar::after {
+  background-color: #ffffff;
+}
+
+.single-services-box.light .icon {
+  color: #04c37f;
+}
+
+.single-services-box.light h3 a:hover {
+  color: #04c37f;
+}
+
+.single-services-box.light:hover .icon {
+  background-color: #04c37f;
+  border-color: #04c37f;
+}
+
+.single-testimonials-item.light::before {
+  color: #04c37f;
+}
+
+.footer-area.bg-f9f9f9 .footer-content .footer-contact-info li a:hover {
+  color: #04c37f;
+}
+
+.footer-area.bg-f9f9f9 .footer-content .social li a:hover {
+  color: #04c37f;
+}
+/*# sourceMappingURL=default-color.css.map */
